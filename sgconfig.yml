@@ -1,0 +1,5 @@
+uleDirs:
+- .rules
+languageGlobs:
+  TypeScript: ["*.ts"]
+  Tsx: ["*.tsx"]
