@@ -35,7 +35,6 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Interactive charts and visualizations
 - Trend analysis and historical data
 - Quick action buttons for common tasks
-
 #### 2. **Hospital Logs Management**
 - Comprehensive hospital database (240+ hospitals)
 - Real-time claim tracking
@@ -47,7 +46,6 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Contact information
 - Advanced filtering and search
 - Export functionality
-
 #### 3. **District Risk Monitoring**
 - Complete coverage of all 23 West Bengal districts
 - Color-coded risk levels:
@@ -60,7 +58,6 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Fraud rate percentage
   - Real-time updates
 - Click-to-view detailed statistics
-
 #### 4. **AI Investigator Chatbot**
 - Natural language query interface
 - 15+ supported query patterns:
@@ -74,7 +71,6 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Real-time response generation
 - Message history
 - Mobile-responsive design
-
 #### 5. **Notification System**
 - Real-time alerts for:
   - High-risk hospital detection
@@ -87,7 +83,6 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Delete individual notifications
 - Bulk actions (mark all read, clear all)
 - Scrollable notification list
-
 #### 6. **Settings & Configuration**
 - **General Settings**:
   - Profile management (name, email, department, role)
@@ -107,14 +102,12 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Webhook configuration
   - Database status monitoring
   - Data export and backup
-
 #### 7. **Authentication System**
 - Secure login page
 - Role-based access control
 - Session management
 - Protected routes
 - Logout functionality
-
 #### 8. **Theme Support**
 - Light and Dark mode toggle
 - Persistent theme preference
@@ -124,26 +117,22 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 ## 🛠️ Tech Stack:
 
 ### Frontend Framework
-- **React 18.3** - Modern UI library with hooks
-- **TypeScript 5.6** - Type-safe development
-- **Vite 5.4** - Lightning-fast build tool
-
+- **React 18.3** 
+- **TypeScript 5.6** 
+- **Vite 5.4** 
 ### UI Components & Styling
-- **shadcn/ui** - High-quality, accessible components
-- **Tailwind CSS 3.4** - Utility-first CSS framework
-- **Lucide React** - Beautiful icon library
-- **Recharts** - Composable charting library
-
+- **shadcn/ui** 
+- **Tailwind CSS 3.4** 
+- **Lucide React** 
+- **Recharts** 
 ### Routing & State
-- **React Router DOM 6.28** - Client-side routing
-- **React Context API** - Global state management
-
+- **React Router DOM 6.28** 
+- **React Context API** -
 ### Development Tools
-- **ESLint** - Code linting
-- **TypeScript ESLint** - TypeScript-specific linting
-- **PostCSS** - CSS processing
-- **Autoprefixer** - CSS vendor prefixing
-
+- **ESLint** 
+- **TypeScript ESLint** 
+- **PostCSS** 
+- **Autoprefixer**
 
 ## 🚀 Getting Started:
 
@@ -246,18 +235,9 @@ Swasthya-Rakshak/
 ├── vite.config.ts              # Vite configuration
 ├── package.json                # Dependencies
 └── README.md                   # This file
-```
 
----
 
-## 🧩 Key Components
-## 📄 Pages & Routes
-## 🔄 State Management
-## 🔐 Authentication
-## 🤖 AI Chatbot
-## 🗺️ District Monitoring
-## 🎨 Customization
-## 🚀 Deployment
+
 ## 📝 Contributing
 
 ## 🔮 Future Enhancements:
@@ -276,6 +256,5 @@ Swasthya-Rakshak/
 ## 📜 License
 
 Copyright © 2026 Shasthya-Rakshak. All rights reserved.
-   **Made with ❤️ for the people of West Bengal**
+**Made with ❤️ for the people of West Bengal**
 
-![West Bengal](https://img.shields.io/badge/West%20Bengal-Healthcare-green?style=for-the-badge)
