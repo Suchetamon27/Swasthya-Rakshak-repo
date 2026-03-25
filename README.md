@@ -245,6 +245,7 @@ Swasthya-Rakshak/
      🤝We welcome contributions!
 
 **Made with ❤️ for the people of West Bengal**
-   Copyright © 2026 Shasthya-Rakshak. All rights reserved.
+
+Copyright © 2026 Shasthya-Rakshak. All rights reserved.
 
 
