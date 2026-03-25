@@ -130,7 +130,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - **Recharts** 
 ### Routing & State
 - **React Router DOM 6.28** 
-- **React Context API** -
+- **React Context API** 
 ### Development Tools
 - **ESLint** 
 - **TypeScript ESLint** 
