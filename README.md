@@ -239,6 +239,7 @@ Swasthya-Rakshak/
 
 
 ## 📝 Contributing
+     We welcome contributions!
 
 ## 🔮 Future Enhancements:
 
