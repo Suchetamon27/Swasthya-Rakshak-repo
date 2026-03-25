@@ -242,7 +242,13 @@ Swasthya-Rakshak/
 
 ## 📝 Contributing
      
-     🤝We welcome contributions!
+     🤝We welcome contributions.
+     
+    - Fork the project.
+    - Create your feature branch (git checkout -b feature/amazing-feature).
+    - Commit your changes (git commit -m 'Add some amazing feature').
+    - Push to the branch (git push origin feature/amazing-feature).
+    - Open a Pull Request.
 
 **Made with ❤️ for the people of West Bengal**
 
