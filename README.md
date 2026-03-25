@@ -250,7 +250,7 @@ Swasthya-Rakshak/
     - Push to the branch (git push origin feature/amazing-feature).
     - Open a Pull Request.
 
-**Made with ❤️ for the people of West Bengal**
+**Made with ❤️ for the people of West Bengal**⭐ Star us on GitHub — it motivates us a lot!
 
 Copyright © 2026 Shasthya-Rakshak. All rights reserved.
 
