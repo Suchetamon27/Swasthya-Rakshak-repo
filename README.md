@@ -185,7 +185,7 @@ npm run preview
 npm run lint
 ```
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 Swasthya-Rakshak/
 ├── public/                      # Static assets
