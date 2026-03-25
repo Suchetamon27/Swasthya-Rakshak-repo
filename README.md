@@ -1,4 +1,4 @@
-# 🛡️Shasthya-Rakshak-**AI-Powered Healthcare Claims Fraud Detection System**  
+# 🛡️Shasthya-Rakshak : **AI-Powered Healthcare Claims Fraud Detection System**  
 *For West Bengal Health & Family Welfare*
 
 ![Shasthya-Rakshak Logo](https://img.shields.io/badge/Shasthya--Rakshak-Healthcare%20Fraud%20Detection-blue?style=for-the-badge)
