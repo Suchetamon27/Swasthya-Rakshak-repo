@@ -29,7 +29,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 
 ## ✨ Features:
 
-## 1. **Dashboard Analytics**
+## **Dashboard Analytics**
 - Real-time KPI cards displaying:
   - Total Claims Processed
   - Fraud Cases Detected
@@ -38,7 +38,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Interactive charts and visualizations
 - Trend analysis and historical data
 - Quick action buttons for common tasks
-## 2. **Hospital Logs Management**
+## **Hospital Logs Management**
 - Comprehensive hospital database (240+ hospitals)
 - Real-time claim tracking
 - Fraud detection status for each hospital
@@ -49,7 +49,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Contact information
 - Advanced filtering and search
 - Export functionality
-## 3. **District Risk Monitoring**
+## **District Risk Monitoring**
 - Complete coverage of all 23 West Bengal districts
 - Color-coded risk levels:
   - 🔴 High Risk (>8% fraud rate)
@@ -61,7 +61,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Fraud rate percentage
   - Real-time updates
 - Click-to-view detailed statistics
-## 4. **AI Investigator Chatbot**
+## **AI Investigator Chatbot**
 - Natural language query interface
 - 15+ supported query patterns:
   - Fraud detection information
@@ -74,7 +74,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Real-time response generation
 - Message history
 - Mobile-responsive design
-## 5. **Notification System**
+## **Notification System**
 - Real-time alerts for:
   - High-risk hospital detection
   - District fraud rate changes
@@ -86,7 +86,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Delete individual notifications
 - Bulk actions (mark all read, clear all)
 - Scrollable notification list
-## 6. **Settings & Configuration**
+## **Settings & Configuration**
 - **General Settings**:
   - Profile management (name, email, department, role)
   - System preferences (auto-verification, real-time sync)
@@ -105,13 +105,13 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Webhook configuration
   - Database status monitoring
   - Data export and backup
-## 7. **Authentication System**
+## **Authentication System**
 - Secure login page
 - Role-based access control
 - Session management
 - Protected routes
 - Logout functionality
-## 8. **Theme Support**
+## **Theme Support**
 - Light and Dark mode toggle
 - Persistent theme preference
 - Smooth transitions
