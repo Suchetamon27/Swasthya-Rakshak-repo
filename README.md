@@ -14,6 +14,9 @@
 
 The system leverages **AI-powered neural engines** to analyze claims in real-time, identify suspicious patterns, and provide actionable insights to healthcare administrators across all 23 districts of West Bengal.
 
+## **🔗 Live Project Link:**
+[https://app-9je2r5tvilfl.appmedo.com/]
+
 ### Key Objectives:
 
 - 🔍 **Fraud Detection**: Identify and flag suspicious healthcare claims using AI
@@ -26,7 +29,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 
 ## ✨ Features:
 
-#### 1. **Dashboard Analytics**
+## 1. **Dashboard Analytics**
 - Real-time KPI cards displaying:
   - Total Claims Processed
   - Fraud Cases Detected
@@ -35,7 +38,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Interactive charts and visualizations
 - Trend analysis and historical data
 - Quick action buttons for common tasks
-#### 2. **Hospital Logs Management**
+## 2. **Hospital Logs Management**
 - Comprehensive hospital database (240+ hospitals)
 - Real-time claim tracking
 - Fraud detection status for each hospital
@@ -46,7 +49,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Contact information
 - Advanced filtering and search
 - Export functionality
-#### 3. **District Risk Monitoring**
+## 3. **District Risk Monitoring**
 - Complete coverage of all 23 West Bengal districts
 - Color-coded risk levels:
   - 🔴 High Risk (>8% fraud rate)
@@ -58,7 +61,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Fraud rate percentage
   - Real-time updates
 - Click-to-view detailed statistics
-#### 4. **AI Investigator Chatbot**
+## 4. **AI Investigator Chatbot**
 - Natural language query interface
 - 15+ supported query patterns:
   - Fraud detection information
@@ -71,7 +74,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Real-time response generation
 - Message history
 - Mobile-responsive design
-#### 5. **Notification System**
+## 5. **Notification System**
 - Real-time alerts for:
   - High-risk hospital detection
   - District fraud rate changes
@@ -83,7 +86,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 - Delete individual notifications
 - Bulk actions (mark all read, clear all)
 - Scrollable notification list
-#### 6. **Settings & Configuration**
+## 6. **Settings & Configuration**
 - **General Settings**:
   - Profile management (name, email, department, role)
   - System preferences (auto-verification, real-time sync)
@@ -102,13 +105,13 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
   - Webhook configuration
   - Database status monitoring
   - Data export and backup
-#### 7. **Authentication System**
+## 7. **Authentication System**
 - Secure login page
 - Role-based access control
 - Session management
 - Protected routes
 - Logout functionality
-#### 8. **Theme Support**
+## 8. **Theme Support**
 - Light and Dark mode toggle
 - Persistent theme preference
 - Smooth transitions
@@ -146,7 +149,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 
 1. **Clone the repository**
    ```bash
-   git clone < >
+   git clone <https://github.com/Suchetamon27/Swasthya-Rakshak-repo>
    ```
 
 2. **Install dependencies**
@@ -163,7 +166,7 @@ The system leverages **AI-powered neural engines** to analyze claims in real-tim
 
 4. **Open in browser**
    ```
-   http://
+   https://app-9je2r5tvilfl.appmedo.com/login
    ```
 
 ### Build for Production
@@ -185,7 +188,7 @@ npm run preview
 npm run lint
 ```
 
-### 📁 Project Structure
+### 📁 Project Structure:
 
 Swasthya-Rakshak/
 ├── public/                      # Static assets
@@ -201,61 +204,47 @@ Swasthya-Rakshak/
 │   │   │   ├── tabs.tsx
 │   │   │   ├── switch.tsx
 │   │   │   └── ... (30+ components)
-│   │   ├── AIChatbot.tsx       # AI chatbot component
-│   │   ├── NotificationBell.tsx # Notification system
-│   │   ├── DistrictRiskGrid.tsx # District monitoring
-│   │   └── KPICard.tsx         # Dashboard KPI cards
+│   │   ├── AIChatbot.tsx       
+│   │   ├── NotificationBell.tsx
+│   │   ├── DistrictRiskGrid.tsx 
+│   │   └── KPICard.tsx        
 │   │
-│   ├── contexts/               # React contexts
-│   │   ├── AppContext.tsx      # Global app state
-│   │   ├── AuthContext.tsx     # Authentication state
-│   │   └── ThemeContext.tsx    # Theme management
+│   │   ├── AppContext.tsx    
+│   │   ├── AuthContext.tsx     
+│   │   └── ThemeContext.tsx   
 │   │
-│   ├── hooks/                  # Custom React hooks
-│   │   └── use-toast.ts        # Toast notifications
+│   ├── hooks/                  
+│   │   └── use-toast.ts        
 │   │
-│   ├── lib/                    # Utility libraries
-│   │   └── utils.ts            # Helper functions
+│   ├── lib/                    
+│   │   └── utils.ts          
 │   │
-│   ├── pages/                  # Page components
-│   │   ├── Dashboard.tsx       # Main dashboard
-│   │   ├── HospitalLogs.tsx    # Hospital management
-│   │   ├── Settings.tsx        # Settings page
-│   │   └── Login.tsx           # Login page
+│   ├── pages/                 
+│   │   ├── Dashboard.tsx     
+│   │   ├── HospitalLogs.tsx   
+│   │   ├── Settings.tsx        
+│   │   └── Login.tsx           
 │   │
-│   ├── App.tsx                 # Root component
-│   ├── main.tsx                # Entry point
-│   ├── routes.tsx              # Route definitions
-│   ├── index.css               # Global styles
-│   └── vite-env.d.ts           # Vite type definitions
+│   ├── App.tsx                
+│   ├── main.tsx
+│   ├── routes.tsx             
+│   ├── index.css             
+│   └── vite-env.d.ts           
 │
-├── .eslintrc.cjs               # ESLint configuration
-├── tailwind.config.js          # Tailwind configuration
-├── tsconfig.json               # TypeScript configuration
-├── vite.config.ts              # Vite configuration
-├── package.json                # Dependencies
-└── README.md                   # This file
+├── .eslintrc.cjs               
+├── tailwind.config.js         
+├── tsconfig.json             
+├── vite.config.ts           
+├── package.json                
+└── README.md              ]
 
 
 
 ## 📝 Contributing
-     We welcome contributions!
+     
+     🤝We welcome contributions!
 
-## 🔮 Future Enhancements:
-
--  Real backend API integration
--  Advanced analytics dashboard
--  PDF report generation
--  Email notification system
--  Multi-language support
--  Advanced filtering and search
--  Data visualization improvements
--  Mobile app version
--  Real-time WebSocket updates
--  Machine learning model integration
-
-## 📜 License
-
-Copyright © 2026 Shasthya-Rakshak. All rights reserved.
 **Made with ❤️ for the people of West Bengal**
+   Copyright © 2026 Shasthya-Rakshak. All rights reserved.
+
 
