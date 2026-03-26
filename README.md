@@ -191,12 +191,12 @@ npm run lint
 ### 📁 Project Structure:
 
 Swasthya-Rakshak/
-├── public/                      # Static assets
+├── public/                      
 ├── src/
-│   ├── components/              # React components
-│   │   ├── layouts/            # Layout components
-│   │   │   └── AdminLayout.tsx # Main admin layout
-│   │   ├── ui/                 # shadcn/ui components
+│   ├── components/              
+│   │   ├── layouts/            
+│   │   │   └── AdminLayout.tsx 
+│   │   ├── ui/                 
 │   │   │   ├── button.tsx
 │   │   │   ├── card.tsx
 │   │   │   ├── input.tsx
@@ -236,7 +236,7 @@ Swasthya-Rakshak/
 ├── tsconfig.json             
 ├── vite.config.ts           
 ├── package.json                
-└── README.md              ]
+└── README.md              
 
 
 
